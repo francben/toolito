@@ -1,4 +1,4 @@
-# toolito
+# tooloremix
 
 ## Project setup
 ```
